@@ -12,8 +12,7 @@
   "author": "Osagiede Harrison",
   "license": "ISC",
   "dependencies": {
-    "chokidar": "^3.5.1"
+    "chokidar": "^3.5.1",
+    "tree-kill": "^1.2.2"
   }
 }
-
-
